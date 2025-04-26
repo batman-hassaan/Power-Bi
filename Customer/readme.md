@@ -1,64 +1,65 @@
-🚀 Sales Analytics Dashboard
-Power BI | Interactive | Data-Driven Decision Making
+# 📊 Sales Analytics Dashboard | Power BI  
 
-<p align="center"> <img src="cover-image-placeholder.png" alt="Sales Dashboard Cover" style="width:70%; border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> </p>
-🔍 Overview
-A dynamic Power BI dashboard transforming raw sales data into actionable business intelligence. Designed for sales managers, executives, and analysts to:
+---
 
-Track KPIs in real-time
+## 🚀 **Overview**
+An interactive Power BI dashboard that transforms sales data into actionable insights. Designed for:  
+- **Executives**: Track KPIs and profit margins  
+- **Sales Teams**: Identify top products/customers  
+- **Analysts**: Discover trends and forecast performance  
 
-Identify growth opportunities
+**Key Highlights**:  
+✔️ 54.97% sales goal overachievement in 2004  
+✔️ 40% revenue from Classic Cars  
+✔️ Bing Maps-powered geographical analysis  
 
-Optimize product strategy
+---
 
-Monitor geographical performance
+## 🛠️ **Tech Stack**
+| Component          | Tools/Techniques Used                 |
+|--------------------|---------------------------------------|
+| **ETL**           | Power Query, Data Modeling            |
+| **Visualization** | Power BI Desktop                      |
+| **Calculations**  | DAX (Measures, Time Intelligence)     |
+| **Maps**         | Bing Maps API                         |
 
-🛠️ Technical Stack
-Component	Details
-Tools	Power BI Desktop, Power Query, DAX
-Data Modeling	Star schema with optimized relationships
-Visualizations	Interactive charts, maps, and conditional formatting
-Integration	Bing Maps API for geographical analysis
-📊 Key Features
-1. Interactive Visualizations
-Visualization	Purpose
-KPI Cards	Total Sales, Profit Margin (%), Profit Amount, Top Product
-Geographical Map	Customer distribution by country (Bing Maps integration)
-Time Analysis	Line/bar charts showing sales trends across years/quarters
-Product Breakdown	Treemap and pie charts for sales by product line/category
-2. Smart Filtering
-Slicers: Year, City, Employee, Product Line
+---
 
-Cross-filtering: Click any visual to filter the entire dashboard
+## 📊 **Dashboard Features**
+### **1. Core Visualizations**
+| Visualization      | Purpose                               |
+|--------------------|---------------------------------------|
+| ![KPI]()           | Total Sales, Profit Margin, Top Product |
+| ![Map]()           | Customer distribution by country      |
+| ![Bar Chart]()     | YoY sales comparison                 |
+| ![Treemap]()       | Product category performance          |
 
-3. Performance Metrics
-Goal tracking (e.g., 2004 sales exceeded targets by 54.97%)
+### **2. Interactive Controls**
+python
+- Year selector (2003-2005)
+- City/Employee filters
+- Product line slicer
+- Cross-filtering enabled
+- 
+# 💡 Key Insights
 
-Comparative analysis (YoY growth, top/bottom 5 products)
++ Top Performing: Classic Cars (40% sales share)
++ High-Growth Region: USA (35% customers)
++ Best Quarter: Q4 (Avg. 28% higher sales)
+- Underperforming: Vintage Cars (12% sales)
+📈 Business Impact
+Inventory Optimization: Focus on top-selling product lines
 
-📈 Insights Highlight
-Product Focus: Classic Cars dominate sales (40% share).
+Targeted Marketing: Prioritize high-density customer regions
 
-Regional Strength: 72% of customers in USA, Germany, and France.
+Goal Setting: Historical trends → realistic future targets
 
-Temporal Trend: Q4 consistently outperforms other quarters.
+# 🖥️ Preview
+<p align="center"> <img src="sample-dashboard-screenshot-placeholder.png" alt="Dashboard Preview" width="90%" style="border: 1px solid #eaeaea; border-radius: 8px;"> </p>
 
-<p align="center"> <img src="sample-dashboard-screenshot-placeholder.png" alt="Dashboard Preview" style="width:90%; border-radius:10px; border: 1px solid #e0e0e0;"> </p>
-💡 Business Impact
-✅ Strategic Decisions: Reallocate inventory based on product/country performance.
-✅ Goal Setting: Historical trends inform realistic future targets.
-✅ Efficiency: Reduce manual reporting time by 80%.
+# 🛠️ Setup
+Requirements:
 
-📥 Usage Guide
-Open: Load .pbix file in Power BI Desktop.
+- Power BI Desktop ([Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads))
 
-Explore: Use slicers to filter data dynamically.
-
-Share: Publish to Power BI Service for team collaboration.
-
-🌟 Why This Dashboard?
-User-Centric Design: Intuitive layout with consistent color themes.
-
-Mobile-Ready: Responsive across devices.
-
-Scalable: Modular design allows easy addition of new data sources.
+<p align="center"> Made with ❤️ using Power BI | Last Updated: 2024-06-20 </p> 

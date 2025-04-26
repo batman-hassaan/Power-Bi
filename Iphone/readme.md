@@ -1,60 +1,64 @@
 # 📊 Financial Performance Dashboard (2009-2024)
 
-This Power BI project visualizes the financial performance of a company from 2009 to 2024.  
-It includes key financial metrics like Revenue, EBITDA, Net Income, Assets, Liabilities, PE Ratio, and Gross Margin.
+This Power BI project visualizes the 📈 **financial growth and analysis** of a company from 2009 to 2024.  
+It includes key financial metrics like **Revenue**, **EBITDA**, **Net Income**, **Assets**, **Liabilities**, **PE Ratio**, and **Gross Margin**.
 
 ---
 
-## 📈 Dashboard Overview
+## 🖥️ Dashboard Overview
 
-- **Revenue, EBITDA, and Net Income Trends**  
-  A multi-line chart showing financial growth over the years.
+- 📊 **Revenue, EBITDA, and Net Income Trends**  
+  ➡️ Multi-line chart showing yearly financial growth.
 
-- **Correlation Between Revenue and Net Income with Employees**  
-  A scatter plot demonstrating the relationship between company size and performance.
+- 🧠 **Correlation Between Revenue and Net Income with Employees**  
+  ➡️ Bubble scatter plot visualizing performance vs company size.
 
-- **Gross Margin (%) Trend**  
-  A line chart representing the company's gross profitability trends.
+- 📈 **Gross Margin (%) Trend**  
+  ➡️ Line chart tracking profitability over the years.
 
-- **Total Assets vs Total Liabilities Over Time**  
-  A stacked column chart comparing assets and liabilities across years.
+- 🏦 **Total Assets vs Total Liabilities Over Time**  
+  ➡️ Stacked area chart comparing financial strength.
 
-- **Year Close Price and PE Ratio Analysis**  
-  A combo chart analyzing market performance with valuation ratios.
+- 📉 **Year Close Price and PE Ratio Analysis**  
+  ➡️ Combo bar-line chart analyzing market value and PE ratios.
 
-- **Asset Composition in 2024**  
-  A donut chart showing how assets are distributed among cash, debt, and liabilities.
+- 🧩 **Asset Composition in 2024**  
+  ➡️ Donut chart showing Cash, Debt, and Liabilities share.
 
 ---
 
 ## ⚙️ Features Included
 
-- Interactive Year filter slicer
-- Multiple visualization types (bar, line, scatter, donut)
-- Correlation analysis
-- Financial ratios visualization
-- Clean and minimalistic design
-- Tooltips enabled for better exploration
+- 🗓️ Interactive Year filter slicer
+- 📚 Multiple visualization types (Bar, Line, Scatter, Donut)
+- 🔗 Correlation Analysis
+- 💵 Financial Ratios Visualization
+- 🧹 Clean, modern, and minimalistic design
+- 💬 Interactive Tooltips enabled for deeper insights
 
 ---
 
-## 📚 Technologies Used
+## 🛠️ Technologies Used
 
-- **Microsoft Power BI Desktop**
-- **DAX (for basic calculations)**
-- **Data Modeling Techniques**
-- **Visual Formatting and Themes**
-
----
-
-## 📋 Notes
-
-- Data Source: Financial Data (2009–2024)
-- Values are in millions (M).
-- PE Ratio is represented alongside Year Close Price for investment analysis.
+- 🖥️ **Microsoft Power BI Desktop**
+- 🧮 **DAX Calculations** (Basic)
+- 🔥 **Data Modeling**
+- 🎨 **Custom Themes and Visual Formatting**
 
 ---
 
-## 🏆 Created by
-**Hassaan**  
+## 📋 Important Notes
+
+- 📈 Values are represented in **millions (M)**.
+- 📊 PE Ratio is visualized together with Year Close Price for investment analysis.
+- 🗂️ Data covers **Financial Years 2009–2024**.
+
+---
+
+## 🏆 Created By
+**✨ Hassaan ✨**  
+
+---
+
+> 🚀 _"Turning raw financial data into powerful business insights!"_
 
